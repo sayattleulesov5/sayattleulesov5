@@ -1,5 +1,5 @@
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="[https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/sayat-tileulessov/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="LinkdeIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/sayat-tileulessov-787299276/)" />
 </a>
 <a href="https://t.me/Tileulessov_Sayat">
   <img align="left" alt="@Tileulessov_Sayat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
